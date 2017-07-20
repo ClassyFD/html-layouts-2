@@ -1,0 +1,64 @@
+.header_section {
+width: 100%;
+height: 100px;
+}
+.header {
+width: 100%;
+height: 100px;
+background: darkslategray;
+display: flex;
+align-items: center;
+justify-content: flex-start;
+}
+.apple {
+    color: white;
+    font-size: 24px;
+    margin-left: 100px; 
+}
+.google {
+    color: white;
+    font-size: 24px;
+    margin-left: 100px;
+}
+.left_paragraphs {
+    width: 50%; 
+    min-height: 400px;
+}
+.paragraphs {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.big_text {
+    margin-top: 25px;
+    font-size: 115px;
+    width: 800px;
+}
+.main {
+    display: flex;
+}
+.P {
+    margin-top: 25px;
+    width: 800px;
+    font-size: 24px;
+}
+.right_paragraphs {
+    width: 50%;
+    height: 500px;
+}
+.right_side {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.right_box {
+    margin-top: 50px;
+    width: 800px;
+    height: 500px;
+    background:lightblue;
+}
+.PR {
+    font-size: 24px;
+    width: 800px;
+    margin-top: 50px;
+}

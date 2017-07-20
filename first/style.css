@@ -1,0 +1,60 @@
+.red_bg {
+    background:maroon;
+}
+.green_bg {
+    background:green;
+}
+.blue_bg {
+    background: skyblue;
+}
+.box {
+    
+    width: 500px;
+    height: 300px;
+}
+.box_inline {   
+    width: 500px;
+    height: 600px;
+    display: inline-block;
+}
+.box_long_inline {   
+    width: 1260px;
+    height: 600px;
+    display: inline-block;
+}
+.box_inline_small_long {   
+    width: 1260px;
+    height: 200px;
+    display: inline-block;
+}
+.box_inline_small {   
+    width: 100px;
+    height: 200px;
+    display: inline-block;
+}
+.box_inline_small_medium {   
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+}
+nav {
+    display:flex; 
+    justify-content: space-around; 
+    margin-top: 60px;
+}
+box {
+    display: flex;
+    justify-content: center;
+}
+.firstP {
+    font-size: 40px;
+    text-align:left;
+    width: 92vw;
+    margin: 0 auto;
+}
+.secondP {
+    font-size: 40px;
+    text-align:left;
+    width: 92vw;
+    margin: 0 auto;
+}
